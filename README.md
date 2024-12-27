@@ -15,6 +15,7 @@ This project is a basic JavaScript calculator that performs the addition of two 
 - [Tech Stack](#tech-stack)
 - [Acknowledgements](#acknowledgements)
 
+
 ## Folder Structure
 
 ```
@@ -34,7 +35,7 @@ project-2/
    ```bash
    cd project-2
    ```
-3. **Install Node.js (if not already installed):**  This project requires Node.js to run. Download and install it from [https://nodejs.org/](https://nodejs.org/).
+3. **Install Node.js (if not already installed):** This project requires Node.js to run. Download and install it from [https://nodejs.org/](https://nodejs.org/).  You may also need a package manager like npm (Node Package Manager) which is usually included with Node.js.
 
 
 ## Usage Guide
@@ -73,7 +74,7 @@ console.log("This is a demo file.");
 
 * Performs addition of two predefined numbers (2 and 4).
 * Demonstrates basic JavaScript functionality and console output.
-* Simple and easy to understand.  Serves as a beginner-friendly example.
+* Simple and easy to understand. Serves as a beginner-friendly example.
 
 ## Contributing Guidelines
 
@@ -81,18 +82,19 @@ Contributions are welcome! Please follow these guidelines:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix (e.g., `feature/add-subtraction`).
-3. Make your changes and commit them with clear and concise messages.  Follow a consistent coding style.
+3. Make your changes and commit them with clear and concise messages. Follow a consistent coding style.  Consider using a linter to maintain code quality.
 4. Push your branch to your forked repository.
 5. Submit a pull request with a detailed description of your changes.
 
 
 ## License Information
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. *(Note: A LICENSE file should be added to the repository.)*
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. *(Note:  A LICENSE file should be added to the repository.)*
+
 
 ## Tech Stack
 
-💻 JavaScript 
+💻 JavaScript
 
 ## Acknowledgements
 
