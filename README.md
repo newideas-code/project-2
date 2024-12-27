@@ -47,11 +47,13 @@ This project doesn't require any user input. The calculation is hardcoded. To ru
    ```bash
    node index.js
    ```
-   This will output the sum of the two predefined variables (`a` and `b`) to the console (which will be 6).  The `demo.js` file can be run similarly:
+   This will output the sum of the two predefined variables (`a` and `b`) to the console (which will be 6).
+3.  Run the `demo.js` file using Node.js:
    ```bash
    node demo.js
    ```
    This will output "This is a demo file." to the console.
+
 
 ## Code Snippets
 
@@ -74,7 +76,7 @@ console.log("This is a demo file.");
 
 * Performs addition of two predefined numbers (2 and 4).
 * Demonstrates basic JavaScript functionality and console output.
-* Simple and easy to understand. Serves as a beginner-friendly example.
+* Simple and easy to understand; serves as a beginner-friendly example.
 
 
 ## Contributing Guidelines
@@ -83,14 +85,14 @@ Contributions are welcome! Please follow these guidelines:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix (e.g., `feature/add-subtraction`).
-3. Make your changes and commit them with clear and concise messages. Follow a consistent coding style.  Consider using a linter (like ESLint) to maintain code quality.
+3. Make your changes and commit them with clear and concise messages. Follow a consistent coding style. Consider using a linter (like ESLint) to maintain code quality.
 4. Push your branch to your forked repository.
 5. Submit a pull request with a detailed description of your changes.
 
 
 ## License Information
 
-This project is licensed under the MIT License.  A LICENSE file should be added to the repository to formally declare this.  (See example licenses online for guidance)
+This project is licensed under the MIT License.  A `LICENSE` file should be added to the repository to formally declare this.  (See [example licenses](https://choosealicense.com/) online for guidance).
 
 
 ## Tech Stack
