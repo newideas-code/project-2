@@ -1,6 +1,6 @@
-# Project 2: Simple Arithmetic Calculation
+# Project 2: Simple Arithmetic Calculator
 
-This project demonstrates a basic arithmetic calculation using JavaScript.  It showcases simple addition of two numbers.
+This project demonstrates a basic arithmetic calculation using JavaScript. It adds two numbers and displays the result on the console.
 
 ## Table of Contents
 
@@ -14,6 +14,7 @@ This project demonstrates a basic arithmetic calculation using JavaScript.  It s
 - [License Information](#license-information)
 - [Tech Stack](#tech-stack)
 - [Acknowledgements](#acknowledgements)
+- [API Documentation](#api-documentation)
 
 
 ## Folder Structure
@@ -35,21 +36,26 @@ project-2/
    ```bash
    cd project-2
    ```
-3. No further installation is needed as this is a simple JavaScript project.  You can run the code directly using Node.js.
+3. **Ensure Node.js is installed:**  This project requires Node.js to run.  Download and install it from [https://nodejs.org/](https://nodejs.org/) if you haven't already.
+
 
 ## Usage Guide
 
 This project performs a simple addition operation. To run the code:
 
-1. Make sure you have Node.js installed on your system.
-2. Open your terminal and navigate to the `project-2` directory.
-3. Run the `index.js` file using the command:
+1. Open your terminal and navigate to the `project-2` directory.
+2. Run the `index.js` file using the command:
    ```bash
    node index.js
    ```
-The output will be `6`, the sum of 2 and 4.
+   The output will be `6`, the sum of 2 and 4.
 
-The `demo.js` file is a simple example and can be run similarly using `node demo.js`.
+3. To run the `demo.js` file, use the command:
+   ```bash
+   node demo.js
+   ```
+   This will print "This is demo file" to the console.
+
 
 ## Code Snippets
 
@@ -71,24 +77,24 @@ console.log("This is demo file ");
 
 ## Features
 
-- Performs a basic addition of two pre-defined numbers.
-- Demonstrates a simple JavaScript program structure.
+- Performs a basic addition of two pre-defined numbers (index.js).
+- Includes a demo file (demo.js) to illustrate a simple JavaScript output.
 
 
 ## Contributing Guidelines
 
-Contributions are welcome!  Please follow these guidelines:
+Contributions are welcome! Please follow these guidelines:
 
 1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with clear and concise messages.
+2. Create a new branch for your feature or bug fix.  Use a descriptive branch name (e.g., `feature/add-subtraction`, `bugfix/typo-in-readme`).
+3. Make your changes and commit them with clear and concise messages.  Follow a consistent commit message style (e.g., imperative mood, present tense).
 4. Push your branch to your forked repository.
-5. Create a pull request describing your changes.
+5. Create a pull request describing your changes thoroughly.
 
 
 ## License Information
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  (Note:  A LICENSE file should be added to the repository for this to be accurate.)
+This project is licensed under the MIT License.  (A LICENSE file should be added to the repository.)
 
 
 ## Tech Stack
