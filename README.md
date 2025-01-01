@@ -1,6 +1,7 @@
 # Project 2: Simple Arithmetic Calculator
 
-This project demonstrates a basic arithmetic calculation using JavaScript. It adds two numbers and displays the result on the console.
+This project is a basic demonstration of arithmetic calculations using JavaScript.  It showcases a simple addition operation and includes a separate demo file to illustrate basic console output.
+
 
 ## Table of Contents
 
@@ -26,6 +27,7 @@ project-2/
 └── index.js
 ```
 
+
 ## Installation Instructions
 
 1. **Clone the repository:**
@@ -36,12 +38,14 @@ project-2/
    ```bash
    cd project-2
    ```
-3. **Ensure Node.js is installed:**  This project requires Node.js to run.  Download and install it from [https://nodejs.org/](https://nodejs.org/) if you haven't already.
+3. **Ensure Node.js is installed:** This project requires Node.js to run. Download and install it from [https://nodejs.org/](https://nodejs.org/) if you haven't already.
 
 
 ## Usage Guide
 
-This project performs a simple addition operation. To run the code:
+This project performs a simple addition operation using the `index.js` file and provides a demonstration using `demo.js`.
+
+**To run `index.js`:**
 
 1. Open your terminal and navigate to the `project-2` directory.
 2. Run the `index.js` file using the command:
@@ -50,7 +54,11 @@ This project performs a simple addition operation. To run the code:
    ```
    The output will be `6`, the sum of 2 and 4.
 
-3. To run the `demo.js` file, use the command:
+
+**To run `demo.js`:**
+
+1. Open your terminal and navigate to the `project-2` directory.
+2. Run the `demo.js` file using the command:
    ```bash
    node demo.js
    ```
@@ -59,7 +67,7 @@ This project performs a simple addition operation. To run the code:
 
 ## Code Snippets
 
-**index.js:** This file contains the core logic for the addition operation.
+**index.js:** This file performs the addition operation.
 
 ```javascript
 const a = 2;
@@ -68,33 +76,33 @@ const ans = a + b;
 console.log(ans);
 ```
 
-**demo.js:** This file serves as a simple demonstration.
+**demo.js:** This file demonstrates a simple console output.
 
 ```javascript
-console.log("This is demo file ");
+console.log("This is demo file");
 ```
 
 
 ## Features
 
-- Performs a basic addition of two pre-defined numbers (index.js).
-- Includes a demo file (demo.js) to illustrate a simple JavaScript output.
+- **Simple Addition:** Performs a basic addition of two predefined numbers (2 and 4).
+- **Demo File:** Includes a `demo.js` file to illustrate a basic JavaScript console output.
 
 
 ## Contributing Guidelines
 
 Contributions are welcome! Please follow these guidelines:
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.  Use a descriptive branch name (e.g., `feature/add-subtraction`, `bugfix/typo-in-readme`).
-3. Make your changes and commit them with clear and concise messages.  Follow a consistent commit message style (e.g., imperative mood, present tense).
-4. Push your branch to your forked repository.
-5. Create a pull request describing your changes thoroughly.
+1. **Fork** the repository.
+2. **Create a new branch** for your feature or bug fix. Use a descriptive branch name (e.g., `feature/add-subtraction`, `bugfix/typo-in-readme`).
+3. **Make your changes** and commit them with clear and concise messages. Follow a consistent commit message style (e.g., imperative mood, present tense).
+4. **Push** your branch to your forked repository.
+5. **Create a pull request** describing your changes thoroughly.
 
 
 ## License Information
 
-This project is licensed under the MIT License.  (A LICENSE file should be added to the repository.)
+This project is licensed under the MIT License.  *(A LICENSE file should be added to the repository.)*
 
 
 ## Tech Stack
